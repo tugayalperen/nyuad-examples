@@ -12,3 +12,5 @@ Crazyflie Building and Flashing Instructions: https://github.com/bitcraze/crazyf
 
 
 More on onboard coding: https://www.bitcraze.io/documentation/repository/crazyflie-firmware/master/userguides/app_layer/
+
+Example onboard applications and directory to place yours: https://github.com/bitcraze/crazyflie-firmware/tree/master/examples
